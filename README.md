@@ -3,7 +3,7 @@
 A ServiceNow solution that automates the complete employee lifecycle — onboarding and offboarding — using Service Catalog items, Flow Designer workflows, role-based ACLs, and SLA tracking.
 
 ## 📺 Demo
-[Watch the demo walkthrough](https://drive.google.com/file/d/YOUR_FILE_ID/view)  *(link will be added)*
+[Watch the demo walkthrough](https://drive.google.com/file/d/15bFoSLjFWv8efrGt3p6yLLCJCoEJXH1O/view?usp=sharing)
 
 ---
 
